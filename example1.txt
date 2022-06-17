@@ -1,5 +1,0 @@
-This is just a test in example1.txt
-To open text editor in git bash type vi file_name_extension
-press I to enter into insertion mode
-After your work is completed press esc --> x! --> entx
-test complete
